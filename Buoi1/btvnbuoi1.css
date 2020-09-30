@@ -1,0 +1,47 @@
+body{
+    font-size: 20px;
+}
+
+#header1{
+    color:blue;
+    background-color: #e0b47a;
+}
+
+#topic{
+    font-size: 30px;
+}
+
+span{
+    color:white;
+    background-color: black;
+}
+
+#part2{
+    text-align: center;
+    background-color: #c25719f8; 
+}
+
+#header2{
+    color:blue;
+    background-color: #c25719f8;    
+}
+
+.white{
+    background-color: #f5e796;
+}
+
+#header3{
+    color: rgb(16, 36, 92);
+    background-color:aqua;
+}
+
+#part3 p{
+    color:blue;
+    background-color: rgb(241, 129, 189);
+}
+
+h1{
+    text-align: center;
+    color:red;
+    background-color: #ecc99a;
+}
